@@ -1,4 +1,4 @@
-# Question/Comment on eQIP Prototype RFQ
+# Question/Comment on e-QIP Prototype RFQ
 
 ## Name and affiliation
 {please provide information about your job/role in the Agile BPA process as well as your organization} 
