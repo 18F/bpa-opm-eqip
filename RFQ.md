@@ -9,7 +9,7 @@ Subject: Request for Quotation (RFQ)
 
 Project Title: e-QIP Prototype Development
 
-Date: September 6, 2016\
+Date: September 6, 2016
 Reply By: September 20, 2016, 3:00PM EST
 
 To: Agile Blanket Purchase Agreement (aBPA) Pool 3 Holders
