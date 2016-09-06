@@ -402,14 +402,14 @@ within 24 hours of any anticipated or known impact.
 
 #### 6.6.3 **List of Deliverables**
 
-  **REQUIRED DELIVERABLES / REPORTS**   **DUE DATES**                                                       **DESCRIPTION OF DELIVERABLE CONTENT**
-  ------------------------------------- ------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------
-  Status Reports                        1 business day after each sprint                                    A report of progress throughout each sprint
-  Code Repository of Product            End of call order                                                   Version-controlled Open Source repository of code that comprises prototype
-  User Research Findings                End of second sprint, and every applicable sprint thereafter        A summary of research conducted and results found. If applicable, next steps or recommendations based on research.
-  Design Deliverables                   End of every applicable sprint                                      Mock ups and/or design files if applicable, or design changes reflected in the Development Prototype
-  Development Prototype                 End of second sprint, and every sprint thereafter                   In-progress development prototype, accessible on the web via staging server / development server
-  Transition plan                       3 business days after the conclusion of the second-to-last sprint   See Section 5.7.1 of the PWS
+  **REQUIRED DELIVERABLES / REPORTS** | **DUE DATES** | **DESCRIPTION OF DELIVERABLE CONTENT**
+  ------------ | --------------- | --------------------
+  Status Reports  | 1 business day after each sprint | A report of progress throughout each sprint
+  Code Repository of Product | End of call order | Version-controlled Open Source repository of code that comprises prototype
+  User Research Findings |  End of second sprint, and every applicable sprint thereafter | A summary of research conducted and results found. If applicable, next steps or recommendations based on research.
+  Design Deliverables | End of every applicable sprint|  Mock ups and/or design files if applicable, or design changes reflected in the Development Prototype
+  Development Prototype| End of second sprint, and every sprint thereafter | In-progress development prototype, accessible on the web via staging server / development server
+  Transition plan | 3 business days after the conclusion of the second-to-last sprint |  See Section 5.7.1 of the PWS
 
 #### The contractor shall submit all deliverables to COR/ACOR, 18F Product Lead, and Product Owner.
 
