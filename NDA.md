@@ -8,8 +8,7 @@ USC TITLE 41, SECTION 423(d); DISCLOSURE TO UNAUTHORIZED PERSONNEL
 
 I.
 __________________________________________(print
-or type name), as an employee of
-_______________________________________
+or type name), as an employee of _______________________________________
 (insert name of company), a contractor acting under contract to the U.S.
 General Services Administration (GSA), [insert program/procurement
 title and client agency], in administering an unclassified and/or
