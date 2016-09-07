@@ -1,10 +1,10 @@
-PERFORMANCE WORK STATEMENT (PWS) 
+PERFORMANCE WORK STATEMENT (PWS)
 =================================
 
 Electronic Questionnaires for Investigations Processing (e-QIP) Prototype Development
 =====================================================================================
 
-### 
+###
 
 1.0 BACKGROUND
 --------------
@@ -100,7 +100,7 @@ The 18F technical lead is responsible for coordination between the
 contractor’s development team, the Product Owner and the key interagency
 stakeholders.
 
-### Product Owner (DOD, with assistance from OPM): 
+### Product Owner (DOD, with assistance from OPM):
 
 The Product Owner is the project’s key stakeholder and is from the e-QIP
 Prototype Team. They are responsible for having a vision of what he or
@@ -127,7 +127,7 @@ The contractor will provide the following services:
     Standard Form 86 (SF-86) or its successor and associated questions.
 
 -   Contractor shall use data validation features to verify applicant
-    > data, such as addresses, by querying outside data sources.
+    data, such as addresses, by querying outside data sources.
 
 -   Contractor shall work with OPM and DOD project teams to ensure that
     the system is compliant with interagency requirements and policies,
@@ -151,8 +151,6 @@ The contractor will provide the following services:
 
 -   Contractor shall use plain language in application design and
     development, wherever possible.
-
-<!-- -->
 
 -   Contractor shall adhere to [US Web Design
     Standards](https://playbook.cio.gov/designstandards/) or other
@@ -189,7 +187,7 @@ experience with:
 -   Human-centered design practices, such as:
 
     -   User research, such as (but not limited to) contextual inquiry
-        > and usability testing
+        and usability testing
 
     -   User experience design
 
@@ -198,12 +196,12 @@ experience with:
     -   Content design
 
 -   Highly scalable systems, meaning 100s or 1000s of Transactions per
-    > Second
+    Second
 
 -   Building and testing public facing sites and tools
 
 -   Importing and exporting data in machine-readable formats, such as
-    > XML and JSON
+    XML and JSON
 
 -   Structuring a database based on an XML or JSON schema
 
@@ -226,67 +224,67 @@ To ensure successful performance of the requirement, contractor shall
 satisfy the following:
 
 A.  The contractor shall assign a PM and a Technical Lead as Key
-    > Personnel whose résumés are submitted with its quotation to
-    > perform this call order.
+    Personnel whose résumés are submitted with its quotation to
+    perform this call order.
 
 B.  If any individual proposed as Key Personnel becomes unavailable
-    > during the course of the solicitation and evaluation process, the
-    > contractor shall notify the CO immediately and provide a
-    > substitute person with résumé. Any Key Personnel proposed who are
-    > not currently employed by the contractor shall be identified as
-    > such and an additional letters of intent signed by the proposed
-    > Key Personnel shall be provided that indicates that person's
-    > intent to be employed by the contractor if awarded this
-    > call order.
+    during the course of the solicitation and evaluation process, the
+    contractor shall notify the CO immediately and provide a
+    substitute person with résumé. Any Key Personnel proposed who are
+    not currently employed by the contractor shall be identified as
+    such and an additional letters of intent signed by the proposed
+    Key Personnel shall be provided that indicates that person's
+    intent to be employed by the contractor if awarded this
+    call order.
 
 C.  The contractor agrees that through the duration of the base period
-    > of performance of the call order, no Key Personnel substitutions
-    > shall be made unless necessitated by an individual’s sudden
-    > illness, death, or termination of employment for cause. In any of
-    > such event, the contractor shall promptly notify the COR/ACOR and
-    > the 18F Product Lead and provide the information required by
-    > paragraphs below on the proposed replacement for
-    > Government approval.
+    of performance of the call order, no Key Personnel substitutions
+    shall be made unless necessitated by an individual’s sudden
+    illness, death, or termination of employment for cause. In any of
+    such event, the contractor shall promptly notify the COR/ACOR and
+    the 18F Product Lead and provide the information required by
+    paragraphs below on the proposed replacement for
+    Government approval.
 
 D.  All requests for substitutions/additions of Key Personnel must
-    > include a detailed explanation of the circumstances necessitating
-    > the proposed substitution or addition, a complete résumé for the
-    > proposed substitute or addition including skills, experience,
-    > education, training, and security level. As determined by the CO,
-    > all proposed substitutes/additions must have qualifications that
-    > meet or exceed the qualifications of the person to be replaced.
+    include a detailed explanation of the circumstances necessitating
+    the proposed substitution or addition, a complete résumé for the
+    proposed substitute or addition including skills, experience,
+    education, training, and security level. As determined by the CO,
+    all proposed substitutes/additions must have qualifications that
+    meet or exceed the qualifications of the person to be replaced.
 
 E.  The CO, or duly designated COR/ACOR and the 18F Product Lead, will
-    > evaluate the request(s) for substitutions/additions of Key
-    > Personnel and the CO will notify the contractor, in writing, of
-    > approval or disapproval. Disapproval of the proposed individual(s)
-    > shall not provide grounds for non-performance by the contractor or
-    > form the basis of any claim for monies, delivery schedule
-    > extension, or any other equitable adjustment.
+    evaluate the request(s) for substitutions/additions of Key
+    Personnel and the CO will notify the contractor, in writing, of
+    approval or disapproval. Disapproval of the proposed individual(s)
+    shall not provide grounds for non-performance by the contractor or
+    form the basis of any claim for monies, delivery schedule
+    extension, or any other equitable adjustment.
 
 F.  Key Personnel must have a full understanding of the technical
-    > approach discussed in the Oral Presentations and delivered by the
-    > contractor after award. NOTE - the labor category proposed is at
-    > the contractor's discretion.
+    approach discussed in the Oral Presentations and delivered by the
+    contractor after award. NOTE - the labor category proposed is at
+    the contractor's discretion.
 
 G.  Key Personnel will be a direct liaison to the COR/ACOR and the 18F
-    > Product Lead. Key Personnel shall be responsible for the
-    > supervision and management of the contractor’s personnel,
-    > technical assistance, and interface. Desired skills and experience
-    > include:
+    Product Lead. Key Personnel shall be responsible for the
+    supervision and management of the contractor’s personnel,
+    technical assistance, and interface. Desired skills and experience
+    include:
 
-    -   Experience in technical leadership.
+-   Experience in technical leadership.
 
-    -   Ability to rapidly prioritize competing requirements.
+-   Ability to rapidly prioritize competing requirements.
 
-    -   Ability to understand and simplify customer requirements.
+-   Ability to understand and simplify customer requirements.
 
-    -   Ability to communicate end user feedback to technical and
-        > design leads.
+-   Ability to communicate end user feedback to technical and
+    design leads.
 
-    -   Strong communication skills.
+-   Strong communication skills.
 
-    -   Proven knowledge of industry standards.
+-   Proven knowledge of industry standards.
 
 ### 6.1.3 Project Management
 
@@ -337,7 +335,7 @@ Daily operations may include:
 -   Chat operations via web-based chat software such as Slack
 
 -   Manage and update user stories + workflow tasks in shared project
-    > management system
+    management system
 
 ### 6.4 GSA AAS Business Systems (AASBS) Web Portal
 
@@ -383,14 +381,14 @@ the following deliverables:
 -   Links to the Github issues/commits/branches
 
 -   Screenshot, links, or other documentation from the shared project
-    > management system reflecting completed features, including number
-    > and percentage of completed sprint tasks (e.g. percentage of
-    > tasks completed)
+    management system reflecting completed features, including number
+    and percentage of completed sprint tasks (e.g. percentage of
+    tasks completed)
 
 -   User research documentation
 
 -   Summary slide decks or other collateral created for design,
-    > development, system architecture, and stakeholder briefings
+    development, system architecture, and stakeholder briefings
 
 ### 6.6.2 Impact Reports
 
@@ -473,21 +471,21 @@ Product Lead and/or the COR/ACOR.
 The contractor shall:
 
 -   Ensure and agree that all deliverables, products, licenses, designs,
-    > data, documentation, tests, user research notes, source code,
-    > configuration settings and files, and materials developed
-    > throughout this call order will be the property of the U.S.
-    > Government and in the public domain.
+    data, documentation, tests, user research notes, source code,
+    configuration settings and files, and materials developed
+    throughout this call order will be the property of the U.S.
+    Government and in the public domain.
 
 -   Two weeks prior to call order conclusion, provide a brief Transition
-    > Plan for all deliverables, products, and materials in coordination
-    > with the COR/ACOR, 18F Product Lead and Product Owner.
+    Plan for all deliverables, products, and materials in coordination
+    with the COR/ACOR, 18F Product Lead and Product Owner.
 
 -   Coordinate with the COR/ACOR and the 18F Product Lead and
-    > potentially another vendor, and implement the Transition Plan
-    > according to the COR/ACOR and the 18F Product Lead’s direction.
+    potentially another vendor, and implement the Transition Plan
+    according to the COR/ACOR and the 18F Product Lead’s direction.
 
 -   Provide assistance to the COR/ACOR, 18F Product Lead, and
-    > potentially other Government staff to stand-up the application.
+    potentially other Government staff to stand-up the application.
 
 #### 6**.7.2 Transition Activities**
 
@@ -752,8 +750,6 @@ Claims (GSA Form 1142) to the CO. This release of claims is due within
 
 ### Attachments:
 
-1.  ### PWS - QASP
+1.  PWS - QASP
 
 2.  Non-Disclosure Agreement
-
-
