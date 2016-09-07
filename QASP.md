@@ -100,7 +100,7 @@ corrected by re-performance, the Government may:
     performance of the quality assurance function, including originals
     of all surveillance activity checklists. All such records will be
     retained for the life of the call order. The COR/ACOR shall forward
-    these records to theCO at completion or termination of the
+    these records to the CO at completion or termination of the
     call order.
 
 ACCEPTANCE OF SERVICES
