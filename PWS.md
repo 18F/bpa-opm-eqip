@@ -223,11 +223,11 @@ must be listed as Key Personnel.
 To ensure successful performance of the requirement, contractor shall
 satisfy the following:
 
-A.  The contractor shall assign a PM and a Technical Lead as Key
+**A.**  The contractor shall assign a PM and a Technical Lead as Key
     Personnel whose résumés are submitted with its quotation to
     perform this call order.
 
-B.  If any individual proposed as Key Personnel becomes unavailable
+**B.**  If any individual proposed as Key Personnel becomes unavailable
     during the course of the solicitation and evaluation process, the
     contractor shall notify the CO immediately and provide a
     substitute person with résumé. Any Key Personnel proposed who are
@@ -237,7 +237,7 @@ B.  If any individual proposed as Key Personnel becomes unavailable
     intent to be employed by the contractor if awarded this
     call order.
 
-C.  The contractor agrees that through the duration of the base period
+**C.**  The contractor agrees that through the duration of the base period
     of performance of the call order, no Key Personnel substitutions
     shall be made unless necessitated by an individual’s sudden
     illness, death, or termination of employment for cause. In any of
@@ -246,7 +246,7 @@ C.  The contractor agrees that through the duration of the base period
     paragraphs below on the proposed replacement for
     Government approval.
 
-D.  All requests for substitutions/additions of Key Personnel must
+**D.**  All requests for substitutions/additions of Key Personnel must
     include a detailed explanation of the circumstances necessitating
     the proposed substitution or addition, a complete résumé for the
     proposed substitute or addition including skills, experience,
@@ -254,7 +254,7 @@ D.  All requests for substitutions/additions of Key Personnel must
     all proposed substitutes/additions must have qualifications that
     meet or exceed the qualifications of the person to be replaced.
 
-E.  The CO, or duly designated COR/ACOR and the 18F Product Lead, will
+**E.**  The CO, or duly designated COR/ACOR and the 18F Product Lead, will
     evaluate the request(s) for substitutions/additions of Key
     Personnel and the CO will notify the contractor, in writing, of
     approval or disapproval. Disapproval of the proposed individual(s)
@@ -262,12 +262,12 @@ E.  The CO, or duly designated COR/ACOR and the 18F Product Lead, will
     form the basis of any claim for monies, delivery schedule
     extension, or any other equitable adjustment.
 
-F.  Key Personnel must have a full understanding of the technical
+**F.**  Key Personnel must have a full understanding of the technical
     approach discussed in the Oral Presentations and delivered by the
     contractor after award. NOTE - the labor category proposed is at
     the contractor's discretion.
 
-G.  Key Personnel will be a direct liaison to the COR/ACOR and the 18F
+**G.**  Key Personnel will be a direct liaison to the COR/ACOR and the 18F
     Product Lead. Key Personnel shall be responsible for the
     supervision and management of the contractor’s personnel,
     technical assistance, and interface. Desired skills and experience
@@ -753,6 +753,6 @@ Claims (GSA Form 1142) to the CO. This release of claims is due within
 
 ### Attachments:
 
-1.  PWS - QASP
+1.  [PWS - QASP](https://github.com/18F/bpa-opm-eqip/blob/master/QASP.md)
 
-2.  Non-Disclosure Agreement
+2.  [Non-Disclosure Agreement](https://github.com/18F/bpa-opm-eqip/blob/master/NDA.md)
