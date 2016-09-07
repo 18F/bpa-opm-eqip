@@ -48,10 +48,10 @@ the requirement as follows:
 
 -   Invoicing Instructions for contractor to receive payment.
 
-**4.0 ROLES & RESPONSIBILITIES**
+4.0 ROLES & RESPONSIBILITIES
+----------------------------
 
-Contracting Officer:
-====================
+### Contracting Officer:
 
 The Contracting Officer (CO) is responsible for monitoring call order
 contract compliance, contract administration, and cost control and for
@@ -537,16 +537,19 @@ on Government work days.
 
 ### 7.4 Administration Points of Contact
 
-The following Points of Contact (POC) are applicable to this order:\
-\
-Contracting Officer (CO): Fred Thomas, Contracting Officer, Federal
-Acquisition Service, GSA, frederick.thomas@gsa.gov
+The following Points of Contact (POC) are applicable to this order:
 
-CO’s Representative (COR): Esther Kim, GSA, Technology Transformation
-Services, esther.kim@gsa.gov
+Contracting Officer (CO): Fred Thomas   
+Contracting Officer, Federal Acquisition Service, GSA  
+frederick.thomas@gsa.gov  
 
-Alternate CO’s Representative (ACOR): Michelle McNellis, GSA, Technology
-Transformation Services michelle.mcnellis@gsa.gov
+CO’s Representative (COR): Esther Kim  
+GSA, Technology Transformation Services  
+esther.kim@gsa.gov
+
+Alternate CO’s Representative (ACOR): Michelle McNellis  
+GSA, Technology Transformation Services  
+michelle.mcnellis@gsa.gov
 
 ### 7.5 Government Furnished Items
 
