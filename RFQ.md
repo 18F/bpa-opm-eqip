@@ -124,7 +124,7 @@ ii. Being given an unfair competitive advantage.
 > through the inclusion of a special contract clause, the terms of the
 > clause will be subject to negotiation.
 
-6. Quotation Instructions. Submittals in response to this solicitation shall only include two separate attachments, a technical file and a pricing file, unless an organizational conflict of interest statement also applies. Quotations that fail to include any of the items identified below will not be considered for award. Inclusion of caveats, assumptions, or exceptions to the requirement of any kind, in any part of the quotation, will result in the quotation no longer being considered for award. 
+6. Quotation Instructions. Submittals in response to this solicitation shall only include two separate attachments, a technical file and a pricing file, unless an organizational conflict of interest statement also applies. Quotations that fail to include any of the items identified below will not be considered for award. Inclusion of caveats, assumptions, or exceptions to the requirement of any kind, in any part of the quotation, will result in the quotation no longer being considered for award.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 a.  F*ormat.* Quotations shall be formatted for viewing/printing using
@@ -263,30 +263,24 @@ Note that Price Quotation will not be reviewed prior to Oral Interview.
 Schedule and Agenda for Oral Presentations:
 -------------------------------------------
 
-  ------------------------------------------ ------------------------------------------------------------------
-  **Agenda Item**                            **Time Allocated**
+**Agenda Item** | **Time Allocated**
+--------------- | ----------------
+Government Provides Questions to Offeror | Approximately 60 Minutes Prior to Oral Presentation (via e-mail)
+Introductions | Approximately 5 Minutes
+Offeror Orals - Q&A on Technical Factors | 25 Minutes Maximum
+Break for Offeror & Government Questions | 5 Minutes Maximum
+Government Follow-Up Q&A | 15 Minutes Maximum (if needed)                                
 
-  Government Provides Questions to Offeror   Approximately 60 Minutes Prior to Oral Presentation (via e-mail)
 
-  Introductions                              Approximately 5 Minutes
-
-  Offeror Orals - Q&A on Technical Factors   25 Minutes Maximum
-
-  Break for Offeror & Government Questions   5 Minutes Maximum
-
-  Government Follow-Up Q&A\                  15 Minutes Maximum
-  (if needed)                                
-  ------------------------------------------ ------------------------------------------------------------------
-
-### 
+###
 
 ### a. *Rules.* The oral presentation consists of an initial question and answer session on technical factors, and a follow-up question and answer session (if necessary), associated with this RFQ does not and will not constitute discussions or negotiations as defined in FAR part 15. The Government is not obligated to determine a competitive range, conduct discussions, and solicit or allow revised quotes. The entire oral presentation will be conducted remotely via video and audio. Offerors shall not bring or present slides, graphs, charts or any other written presentation materials nor will the Government accept or receive offeror handouts.
 
-#### b. *Part One.* Part One of the offeror’s oral presentation will consist of the offeror answering the Government’s core questions related to the technical factors identified in the Request For Quotation (RFQ). While the technical factors are identified in the RFQ, the core questions are not. All offerors will be asked the same core questions related to the technical factors. The questions are related to the offeror’s technical understanding and approach of the requirements identified in the Performance Work Statement (PWS) and quality control measures for overseeing performance. This part of the oral presentation of answers will not exceed 25 minutes, and may go shorter. 
+#### b. *Part One.* Part One of the offeror’s oral presentation will consist of the offeror answering the Government’s core questions related to the technical factors identified in the Request For Quotation (RFQ). While the technical factors are identified in the RFQ, the core questions are not. All offerors will be asked the same core questions related to the technical factors. The questions are related to the offeror’s technical understanding and approach of the requirements identified in the Performance Work Statement (PWS) and quality control measures for overseeing performance. This part of the oral presentation of answers will not exceed 25 minutes, and may go shorter.
 
 #### c. *Part Two (only if necessary).* The Government will allocate 15 minutes for follow-up questions following the offeror’s answers to the initial core questions on technical factors. During this time, the Government may ask questions on any information that had been presented by the offeror that the Government feels is unclear or needs elaboration. The Government’s questions may differ among the offerors based on what needs elaboration. If the Government has no follow-up questions with a particular offeror, then this part of the session will not take place. The answers given in this session are part of the offeror’s oral presentation.
 
-### d. *Location.* The oral presentation sessions will be conducted by video chat, though audio may be substituted as needed. The Government will coordinate and set up the meeting space accordingly (providing dial in or links using a tool such as Acano or Adobe Connect). 
+### d. *Location.* The oral presentation sessions will be conducted by video chat, though audio may be substituted as needed. The Government will coordinate and set up the meeting space accordingly (providing dial in or links using a tool such as Acano or Adobe Connect).
 
 ### e. *Date and Time.* The Government will schedule the date and time of the oral presentations with each offeror after the RFQ closing date and receipt of offeror quote submissions. The Government reserves the right to reschedule any offeror’s orals date at the discretion of the contracting officer.
 
@@ -532,7 +526,7 @@ contract in accordance with 48 CFR 517.207.
 
 #### (End of provision)
 
-#### 
+####
 
 #### ATTACHMENTS TO THIS RFQ
 
@@ -543,5 +537,3 @@ contract in accordance with 48 CFR 517.207.
 3.  PWS - QASP
 
 4.  Non Disclosure Agreement
-
-
