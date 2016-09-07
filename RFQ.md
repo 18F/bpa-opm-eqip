@@ -164,13 +164,13 @@ c.  *Cover Page*. Your technical quotation and price quotation must
 
 \(vii) Date of submission
 
-a.  *Technical Understanding and Approach.* The offeror shall succinctly
+d.  *Technical Understanding and Approach.* The offeror shall succinctly
     describe level of knowledge, technical expertise and overall
     understanding of the requirement as set forth in the PWS. Technical
     understanding and approach description is included as part of your
     7-page limitation.
 
-b.  *Staffing Plan.* The offeror shall submit a Staffing Plan which
+e.  *Staffing Plan.* The offeror shall submit a Staffing Plan which
     describes the offeror’s understanding of the requirements and
     details the number of personnel by skill level/labor category needed
     to satisfy the objectives and requirements of the PWS. All proposed
@@ -280,7 +280,7 @@ Schedule and Agenda for Oral Presentations:
 
 ### 
 
-### *Rules.* The oral presentation consists of an initial question and answer session on technical factors, and a follow-up question and answer session (if necessary), associated with this RFQ does not and will not constitute discussions or negotiations as defined in FAR part 15. The Government is not obligated to determine a competitive range, conduct discussions, and solicit or allow revised quotes. The entire oral presentation will be conducted remotely via video and audio. Offerors shall not bring or present slides, graphs, charts or any other written presentation materials nor will the Government accept or receive offeror handouts.
+### a. *Rules.* The oral presentation consists of an initial question and answer session on technical factors, and a follow-up question and answer session (if necessary), associated with this RFQ does not and will not constitute discussions or negotiations as defined in FAR part 15. The Government is not obligated to determine a competitive range, conduct discussions, and solicit or allow revised quotes. The entire oral presentation will be conducted remotely via video and audio. Offerors shall not bring or present slides, graphs, charts or any other written presentation materials nor will the Government accept or receive offeror handouts.
 
 #### b. *Part One.* Part One of the offeror’s oral presentation will consist of the offeror answering the Government’s core questions related to the technical factors identified in the Request For Quotation (RFQ). While the technical factors are identified in the RFQ, the core questions are not. All offerors will be asked the same core questions related to the technical factors. The questions are related to the offeror’s technical understanding and approach of the requirements identified in the Performance Work Statement (PWS) and quality control measures for overseeing performance. This part of the oral presentation of answers will not exceed 25 minutes, and may go shorter. 
 
