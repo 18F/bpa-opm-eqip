@@ -4,15 +4,15 @@ REQUEST FOR QUOTATION (RFQ)
 Electronic Questionnaires for Investigations Processing (e-QIP) Prototype Development
 =====================================================================================
 
-From: Jasmine Mitchell, Contracting Specialist, GSA FAS AAS NCR  
-Subject: Request for Quotation (RFQ)
+**From:** Jasmine Mitchell, Contracting Specialist, GSA FAS AAS NCR  
+**Subject:** Request for Quotation (RFQ)
 
-Project Title: e-QIP Prototype Development
+**Project Title:** e-QIP Prototype Development
 
-Date: September 6, 2016  
-Reply By: September 20, 2016, 3:00PM EST
+**Date:** September 6, 2016  
+**Reply By:** September 20, 2016, 3:00PM EST
 
-To: Agile Blanket Purchase Agreement (aBPA) Pool 3 Holders
+**To:** Agile Blanket Purchase Agreement (aBPA) Pool 3 Holders
 
 The U.S. General Services Administration (GSA), Federal Acquisition
 Service (FAS), Assisted Acquisition Service (AAS), National Capital
@@ -54,7 +54,7 @@ submit their quotation. If an offeror is unsure about any eBuy feature,
 the offeror is instructed to contact the eBuy help desk and/or search
 the eBuy web portal for the appropriate assistance.
 
-REMINDER: In accordance with the terms and conditions of the aBPA, if
+**REMINDER:** In accordance with the terms and conditions of the aBPA, if
 the aBPA holder does not intend to submit a quotation for a call order
 under the aBPA, the aBPA holder shall place a “No Quote” in eBuy and
 shall include a brief explanation as to the reason for “No Quote”. No
@@ -82,16 +82,16 @@ hours (LH) order.
 
 **5. Special Instructions.**
 
-a.  *Quotation Validation Date*. Quotation must be valid for at least 60
+*a.*  *Quotation Validation Date*. Quotation must be valid for at least 60
     calendar days after quotation response date.
 
-b.  *Communications Prior to Award*. The offeror shall direct all
+*b.*  *Communications Prior to Award*. The offeror shall direct all
     communications to the Contracting Specialist. Communications with
     other officials may compromise the competitiveness of this
     acquisition and result in removal of the offeror from award
     consideration or cancellation of this requirement.
 
-c.  *Potential Organizational Conflicts of Interest Statement*. Before
+*c.*  *Potential Organizational Conflicts of Interest Statement*. Before
     award of this call order, offerors shall provide a signed
     Organizational Conflict of Interest statement with their quotation
     submission, if applicable, which describes concisely all relevant
@@ -103,36 +103,36 @@ c.  *Potential Organizational Conflicts of Interest Statement*. Before
 
 <!-- -->
 
-i.  Being able to render impartial, technically sound, and objective
-    assistance or advice, or
-
-ii. Being given an unfair competitive advantage.
-
-> Offerors may also provide relevant facts that show how its
-> organizational structure and/or management systems limit its knowledge
-> of possible organizational conflicts of interest relating to other
-> divisions or sections of the organization and how that structure or
-> system would avoid or mitigate such organizational conflict.
+> i.  Being able to render impartial, technically sound, and objective
+>     assistance or advice, or
 >
-> No call order award shall be made until any potential conflict of
-> interest has been neutralized or mitigated to the satisfaction of the
-> CO. Refusal to provide the requested information or the willful
-> misrepresentation of any relevant information by an offeror shall
-> disqualify the offeror from further consideration for award of a call
-> order under this solicitation. If the CO determines that a potential
-> conflict can be avoided, effectively mitigated, or otherwise resolved
-> through the inclusion of a special contract clause, the terms of the
-> clause will be subject to negotiation.
+> ii. Being given an unfair competitive advantage.
+
+Offerors may also provide relevant facts that show how its
+organizational structure and/or management systems limit its knowledge
+of possible organizational conflicts of interest relating to other
+divisions or sections of the organization and how that structure or
+system would avoid or mitigate such organizational conflict.
+
+No call order award shall be made until any potential conflict of
+interest has been neutralized or mitigated to the satisfaction of the
+CO. Refusal to provide the requested information or the willful
+misrepresentation of any relevant information by an offeror shall
+disqualify the offeror from further consideration for award of a call
+order under this solicitation. If the CO determines that a potential
+conflict can be avoided, effectively mitigated, or otherwise resolved
+through the inclusion of a special contract clause, the terms of the
+clause will be subject to negotiation.
 
 6. Quotation Instructions. Submittals in response to this solicitation shall only include two separate attachments, a technical file and a pricing file, unless an organizational conflict of interest statement also applies. Quotations that fail to include any of the items identified below will not be considered for award. Inclusion of caveats, assumptions, or exceptions to the requirement of any kind, in any part of the quotation, will result in the quotation no longer being considered for award.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-a.  F*ormat.* Quotations shall be formatted for viewing/printing using
+*a.*  *Format.* Quotations shall be formatted for viewing/printing using
     8.5 by 11 inch paper size, single sided, and in a common format.
     Information provided in the quotation shall be concise, specific,
     and complete.
 
-b.  *Page Limits*. The Technical Quotation (including any attachments)
+*b.*  *Page Limits*. The Technical Quotation (including any attachments)
     must be provided in a separate file from the price quotation to
     facilitate an independent evaluation. Your technical quotation shall
     not exceed a total of 7 pages, excluding the cover letter and a
@@ -144,7 +144,7 @@ b.  *Page Limits*. The Technical Quotation (including any attachments)
     exceed the page limitations as specified herein will not be
     considered for award.
 
-c.  *Cover Page*. Your technical quotation and price quotation must
+*c.*  *Cover Page*. Your technical quotation and price quotation must
     include a cover page. In most instances, the cover page shall be no
     more than one (1) page. Your cover page is not included as part of
     your 7-page limitation. The following introductory information is
@@ -161,16 +161,16 @@ c.  *Cover Page*. Your technical quotation and price quotation must
 > \(v) Name, telephone number & e-mail address of main point-of-contact
 >
 > \(vi) Name, title and signature of authorized representative
+>
+> \(vii) Date of submission
 
-\(vii) Date of submission
-
-d.  *Technical Understanding and Approach.* The offeror shall succinctly
+*d.*  *Technical Understanding and Approach.* The offeror shall succinctly
     describe level of knowledge, technical expertise and overall
     understanding of the requirement as set forth in the PWS. Technical
     understanding and approach description is included as part of your
     7-page limitation.
 
-e.  *Staffing Plan.* The offeror shall submit a Staffing Plan which
+*e.*  *Staffing Plan.* The offeror shall submit a Staffing Plan which
     describes the offeror’s understanding of the requirements and
     details the number of personnel by skill level/labor category needed
     to satisfy the objectives and requirements of the PWS. All proposed
@@ -181,27 +181,27 @@ e.  *Staffing Plan.* The offeror shall submit a Staffing Plan which
 
 At a minimum, provide:
 
-i.  Description of your staffing methodology based on your understanding
-    of the requirements.
-
-ii. A breakdown of labor categories, including the title, number of
-    personnel, and hours.
-
-iii. A list of Key Personnel by name, title, contact information,
-    proposed duties and roles, and resumes for each proposed Key
-    Personnel in accordance with *Personnel* section of the PWS. Resumes
-    should include a description of the experience and capability for
-    all Key Personnel proposed for the offeror’s project team. Resumes
-    should also address the individual’s technical background,
-    education, work experience, and accomplishments related to the
-    activities described in the attached PWS. The proposal of any key
-    personnel not currently employed by the offeror or teaming partners
-    shall be accompanied by letters of intent signed by proposed Key
-    Personnel in accordance with the PWS.
+> i.  Description of your staffing methodology based on your understanding
+>     of the requirements.
+>
+> ii. A breakdown of labor categories, including the title, number of
+>     personnel, and hours.
+>
+> iii. A list of Key Personnel by name, title, contact information,
+>     proposed duties and roles, and resumes for each proposed Key
+>     Personnel in accordance with *Personnel* section of the PWS. Resumes
+>     should include a description of the experience and capability for
+>     all Key Personnel proposed for the offeror’s project team. Resumes
+>     should also address the individual’s technical background,
+>     education, work experience, and accomplishments related to the
+>     activities described in the attached PWS. The proposal of any key
+>     personnel not currently employed by the offeror or teaming partners
+>     shall be accompanied by letters of intent signed by proposed Key
+>     Personnel in accordance with the PWS.
 
 <!-- -->
 
-f.  *Similar Experience.* The offeror shall provide two examples of open
+*f.*  *Similar Experience.* The offeror shall provide two examples of open
     source, web-based information gathering platforms. The project must
     have been delivered by either a) the offeror itself or,
     alternatively, b) a teaming partner that is proposed in response to
@@ -211,27 +211,27 @@ f.  *Similar Experience.* The offeror shall provide two examples of open
     The project(s) submitted for Similar Experience is included as part
     of your 7-page limitation, unless noted otherwise below.
 
-> At a minimum, provide:
+At a minimum, provide:
 
-i.  Recent and similar technical scope is past experience with building
-    usable, responsive, consumer facing website built within the past
-    three (3) years.
+> i.  Recent and similar technical scope is past experience with building
+>     usable, responsive, consumer facing website built within the past
+>     three (3) years.
 
-ii. The summary shall include links to the public Git repository that
-    includes the source code that was developed and accepted for
-    the project. Actual access to a publicly available Git repository is
-    strongly encouraged over screenshots of private repositories. The
-    summary should also include live links of the final product or
-    current staging environment. If live links are not available,
-    screenshots can be provided, along with a brief explanation as to
-    why the project is no longer live. Note that screenshots will not be
-    counted towards your 7-page limitation; please provide screenshots
-    as attachments. The projects should be recent and similar to the
-    size and technical scope of this requirement.
+> ii. The summary shall include links to the public Git repository that
+>     includes the source code that was developed and accepted for
+>     the project. Actual access to a publicly available Git repository is
+>     strongly encouraged over screenshots of private repositories. The
+>     summary should also include live links of the final product or
+>     current staging environment. If live links are not available,
+>     screenshots can be provided, along with a brief explanation as to
+>     why the project is no longer live. Note that screenshots will not be
+>     counted towards your 7-page limitation; please provide screenshots
+>     as attachments. The projects should be recent and similar to the
+>     size and technical scope of this requirement.
 
 <!-- -->
 
-g.  *Price Quotation.* The Government hereby seeks further price
+*g.*  *Price Quotation.* The Government hereby seeks further price
     reductions and Most Favored Customer (MFC) pricing for all
     price services. Provide your best discounted rates. Pricing
     quotation shall be a separate attachment and it is not included as
@@ -240,20 +240,20 @@ g.  *Price Quotation.* The Government hereby seeks further price
 
 <!-- -->
 
-i.  *Pricing Schedule.* Include a pricing schedule utilizing the
-    > attached Pricing Template. All proposed labor rates shall be
-    > consistent with or lower than your aBPA rates and must be fully
-    > burdened (inclusive of profit, fringe benefits, salary, indirect
-    > rates, and the GSA Contract Access Fee (CAF)).
+> i. Pricing Schedule. Include a pricing schedule utilizing the
+>    attached Pricing Template. All proposed labor rates shall be
+>    consistent with or lower than your aBPA rates and must be fully
+>    burdened (inclusive of profit, fringe benefits, salary, indirect
+>    rates, and the GSA Contract Access Fee (CAF)).
 
 <!-- -->
 
-ii. *Pricing Narrative.* The pricing narrative should describe your
-    > basis of pricing for the required services and other costs used in
-    > the development of the proposed pricing. The pricing narrative
-    > should also indicate if any additional discounts off of your aBPA
-    > are being offered. Include any basis of estimate or narrative in
-    > the Pricing Template provided to this RFQ.
+> ii. Pricing Narrative. The pricing narrative should describe your
+>     basis of pricing for the required services and other costs used in
+>     the development of the proposed pricing. The pricing narrative
+>     should also indicate if any additional discounts off of your aBPA
+>     are being offered. Include any basis of estimate or narrative in
+>     the Pricing Template provided to this RFQ.
 
 Note that Price Quotation will not be reviewed prior to Oral Interview.
 
