@@ -66,7 +66,7 @@ disclosure that may compromise the national security, including sections
 4(b) of the Subversive Activities Act of 1950 (50 U.S.C. 783(b)). The
 definitions, requirements, obligations, rights, sanctions, and
 liabilities created by said Executive order and listed statutes are
-incorporated into this agreement and are controlling.'
+incorporated into this agreement and are controlling.
 
 THIS CERTIFICATION CONCERNS A MATTER WITHIN THE JURISDICTION OF AN
 AGENCY OF THE UNITED STATES AND THE MAKING OF A FALSE, FICTITIOUS, OR
