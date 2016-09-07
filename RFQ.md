@@ -4,15 +4,15 @@ REQUEST FOR QUOTATION (RFQ)
 Electronic Questionnaires for Investigations Processing (e-QIP) Prototype Development
 =====================================================================================
 
-From: Jasmine Mitchell, Contracting Specialist, GSA FAS AAS NCR  
-Subject: Request for Quotation (RFQ)
+**From:** Jasmine Mitchell, Contracting Specialist, GSA FAS AAS NCR  
+**Subject:** Request for Quotation (RFQ)
 
-Project Title: e-QIP Prototype Development
+**Project Title:** e-QIP Prototype Development
 
-Date: September 6, 2016  
-Reply By: September 20, 2016, 3:00PM EST
+**Date:** September 6, 2016  
+**Reply By:** September 20, 2016, 3:00PM EST
 
-To: Agile Blanket Purchase Agreement (aBPA) Pool 3 Holders
+**To:** Agile Blanket Purchase Agreement (aBPA) Pool 3 Holders
 
 The U.S. General Services Administration (GSA), Federal Acquisition
 Service (FAS), Assisted Acquisition Service (AAS), National Capital
@@ -54,7 +54,7 @@ submit their quotation. If an offeror is unsure about any eBuy feature,
 the offeror is instructed to contact the eBuy help desk and/or search
 the eBuy web portal for the appropriate assistance.
 
-REMINDER: In accordance with the terms and conditions of the aBPA, if
+**REMINDER:** In accordance with the terms and conditions of the aBPA, if
 the aBPA holder does not intend to submit a quotation for a call order
 under the aBPA, the aBPA holder shall place a “No Quote” in eBuy and
 shall include a brief explanation as to the reason for “No Quote”. No
@@ -82,16 +82,16 @@ hours (LH) order.
 
 **5. Special Instructions.**
 
-a.  *Quotation Validation Date*. Quotation must be valid for at least 60
+*a.*  *Quotation Validation Date*. Quotation must be valid for at least 60
     calendar days after quotation response date.
 
-b.  *Communications Prior to Award*. The offeror shall direct all
+*b.*  *Communications Prior to Award*. The offeror shall direct all
     communications to the Contracting Specialist. Communications with
     other officials may compromise the competitiveness of this
     acquisition and result in removal of the offeror from award
     consideration or cancellation of this requirement.
 
-c.  *Potential Organizational Conflicts of Interest Statement*. Before
+*c.*  *Potential Organizational Conflicts of Interest Statement*. Before
     award of this call order, offerors shall provide a signed
     Organizational Conflict of Interest statement with their quotation
     submission, if applicable, which describes concisely all relevant
@@ -127,12 +127,12 @@ ii. Being given an unfair competitive advantage.
 6. Quotation Instructions. Submittals in response to this solicitation shall only include two separate attachments, a technical file and a pricing file, unless an organizational conflict of interest statement also applies. Quotations that fail to include any of the items identified below will not be considered for award. Inclusion of caveats, assumptions, or exceptions to the requirement of any kind, in any part of the quotation, will result in the quotation no longer being considered for award. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-a.  F*ormat.* Quotations shall be formatted for viewing/printing using
+*a.*  *Format.* Quotations shall be formatted for viewing/printing using
     8.5 by 11 inch paper size, single sided, and in a common format.
     Information provided in the quotation shall be concise, specific,
     and complete.
 
-b.  *Page Limits*. The Technical Quotation (including any attachments)
+*b.*  *Page Limits*. The Technical Quotation (including any attachments)
     must be provided in a separate file from the price quotation to
     facilitate an independent evaluation. Your technical quotation shall
     not exceed a total of 7 pages, excluding the cover letter and a
@@ -144,7 +144,7 @@ b.  *Page Limits*. The Technical Quotation (including any attachments)
     exceed the page limitations as specified herein will not be
     considered for award.
 
-c.  *Cover Page*. Your technical quotation and price quotation must
+*c.*  *Cover Page*. Your technical quotation and price quotation must
     include a cover page. In most instances, the cover page shall be no
     more than one (1) page. Your cover page is not included as part of
     your 7-page limitation. The following introductory information is
@@ -161,16 +161,16 @@ c.  *Cover Page*. Your technical quotation and price quotation must
 > \(v) Name, telephone number & e-mail address of main point-of-contact
 >
 > \(vi) Name, title and signature of authorized representative
+>
+> \(vii) Date of submission
 
-\(vii) Date of submission
-
-a.  *Technical Understanding and Approach.* The offeror shall succinctly
+*a.*  *Technical Understanding and Approach.* The offeror shall succinctly
     describe level of knowledge, technical expertise and overall
     understanding of the requirement as set forth in the PWS. Technical
     understanding and approach description is included as part of your
     7-page limitation.
 
-b.  *Staffing Plan.* The offeror shall submit a Staffing Plan which
+*b.*  *Staffing Plan.* The offeror shall submit a Staffing Plan which
     describes the offeror’s understanding of the requirements and
     details the number of personnel by skill level/labor category needed
     to satisfy the objectives and requirements of the PWS. All proposed
@@ -201,7 +201,7 @@ iii. A list of Key Personnel by name, title, contact information,
 
 <!-- -->
 
-f.  *Similar Experience.* The offeror shall provide two examples of open
+*f.*  *Similar Experience.* The offeror shall provide two examples of open
     source, web-based information gathering platforms. The project must
     have been delivered by either a) the offeror itself or,
     alternatively, b) a teaming partner that is proposed in response to
@@ -211,7 +211,7 @@ f.  *Similar Experience.* The offeror shall provide two examples of open
     The project(s) submitted for Similar Experience is included as part
     of your 7-page limitation, unless noted otherwise below.
 
-> At a minimum, provide:
+At a minimum, provide:
 
 i.  Recent and similar technical scope is past experience with building
     usable, responsive, consumer facing website built within the past
@@ -231,7 +231,7 @@ ii. The summary shall include links to the public Git repository that
 
 <!-- -->
 
-g.  *Price Quotation.* The Government hereby seeks further price
+*g.*  *Price Quotation.* The Government hereby seeks further price
     reductions and Most Favored Customer (MFC) pricing for all
     price services. Provide your best discounted rates. Pricing
     quotation shall be a separate attachment and it is not included as
@@ -282,15 +282,15 @@ Schedule and Agenda for Oral Presentations:
 
 ### *Rules.* The oral presentation consists of an initial question and answer session on technical factors, and a follow-up question and answer session (if necessary), associated with this RFQ does not and will not constitute discussions or negotiations as defined in FAR part 15. The Government is not obligated to determine a competitive range, conduct discussions, and solicit or allow revised quotes. The entire oral presentation will be conducted remotely via video and audio. Offerors shall not bring or present slides, graphs, charts or any other written presentation materials nor will the Government accept or receive offeror handouts.
 
-#### b. *Part One.* Part One of the offeror’s oral presentation will consist of the offeror answering the Government’s core questions related to the technical factors identified in the Request For Quotation (RFQ). While the technical factors are identified in the RFQ, the core questions are not. All offerors will be asked the same core questions related to the technical factors. The questions are related to the offeror’s technical understanding and approach of the requirements identified in the Performance Work Statement (PWS) and quality control measures for overseeing performance. This part of the oral presentation of answers will not exceed 25 minutes, and may go shorter. 
+#### *b.* *Part One.* Part One of the offeror’s oral presentation will consist of the offeror answering the Government’s core questions related to the technical factors identified in the Request For Quotation (RFQ). While the technical factors are identified in the RFQ, the core questions are not. All offerors will be asked the same core questions related to the technical factors. The questions are related to the offeror’s technical understanding and approach of the requirements identified in the Performance Work Statement (PWS) and quality control measures for overseeing performance. This part of the oral presentation of answers will not exceed 25 minutes, and may go shorter. 
 
-#### c. *Part Two (only if necessary).* The Government will allocate 15 minutes for follow-up questions following the offeror’s answers to the initial core questions on technical factors. During this time, the Government may ask questions on any information that had been presented by the offeror that the Government feels is unclear or needs elaboration. The Government’s questions may differ among the offerors based on what needs elaboration. If the Government has no follow-up questions with a particular offeror, then this part of the session will not take place. The answers given in this session are part of the offeror’s oral presentation.
+#### *c.* *Part Two (only if necessary).* The Government will allocate 15 minutes for follow-up questions following the offeror’s answers to the initial core questions on technical factors. During this time, the Government may ask questions on any information that had been presented by the offeror that the Government feels is unclear or needs elaboration. The Government’s questions may differ among the offerors based on what needs elaboration. If the Government has no follow-up questions with a particular offeror, then this part of the session will not take place. The answers given in this session are part of the offeror’s oral presentation.
 
-### d. *Location.* The oral presentation sessions will be conducted by video chat, though audio may be substituted as needed. The Government will coordinate and set up the meeting space accordingly (providing dial in or links using a tool such as Acano or Adobe Connect). 
+### *d.* *Location.* The oral presentation sessions will be conducted by video chat, though audio may be substituted as needed. The Government will coordinate and set up the meeting space accordingly (providing dial in or links using a tool such as Acano or Adobe Connect). 
 
-### e. *Date and Time.* The Government will schedule the date and time of the oral presentations with each offeror after the RFQ closing date and receipt of offeror quote submissions. The Government reserves the right to reschedule any offeror’s orals date at the discretion of the contracting officer.
+### *e.* *Date and Time.* The Government will schedule the date and time of the oral presentations with each offeror after the RFQ closing date and receipt of offeror quote submissions. The Government reserves the right to reschedule any offeror’s orals date at the discretion of the contracting officer.
 
-### f. *Participants.* Offerors may include as many participants as it feels is necessary. Offerors are advised to have technical personnel present since the Government will ask technical questions during the oral presentations. Type and number of participants included is at the offeror’s discretion and is the full responsibility of the offeror. All proposed Key Personnel currently employed by the offeror or its teaming partners shall attend the session - the Government is most interested in hearing from staff that will have a direct role in performing on the task. The letter(s) of intent and resume(s) will suffice for Key Personnel currently not employed by the offeror or its teaming partners.
+### *f.* *Participants.* Offerors may include as many participants as it feels is necessary. Offerors are advised to have technical personnel present since the Government will ask technical questions during the oral presentations. Type and number of participants included is at the offeror’s discretion and is the full responsibility of the offeror. All proposed Key Personnel currently employed by the offeror or its teaming partners shall attend the session - the Government is most interested in hearing from staff that will have a direct role in performing on the task. The letter(s) of intent and resume(s) will suffice for Key Personnel currently not employed by the offeror or its teaming partners.
 
 > After the presentations, offerors shall provide an email to confirm
 > attendance with names of participants to the meeting organizers.
@@ -321,12 +321,12 @@ a significantly higher overall price to achieve slightly superior
 technical value. Offerors are advised that the technical evaluation
 factors combined are significantly more important than price.
 
-a.  *Evaluation Process.* The Government intends to utilize a
+*a.*  *Evaluation Process.* The Government intends to utilize a
     multi-phased approach for this procurement as described below. To be
     considered for award, offerors must successfully pass through
     each phase.
 
-> **Phase 1 (Pass/Fail)**: Quote Compliance Check - A compliance check
+> **Phase 1 (Pass/Fail):** Quote Compliance Check - A compliance check
 > will be conducted to ensure that offerors submit a complete technical
 > quotation and a price quotation following the instructions set on this
 > RFQ letter. Only the offerors that receive *Pass* will advance to
@@ -347,7 +347,7 @@ a.  *Evaluation Process.* The Government intends to utilize a
 > **Phase 4:** Pricing Schedule and Pricing Narrative Check - Review of
 > Price Quotations.
 
-### b. *Technical Evaluation Factors.* The Government will evaluate Phase 2 and Phase 3 for an offeror’s performance or capability acceptability based on the following non-price technical factors which are of equal importance to each other:
+### *b.* *Technical Evaluation Factors.* The Government will evaluate Phase 2 and Phase 3 for an offeror’s performance or capability acceptability based on the following non-price technical factors which are of equal importance to each other:
 
 -   **Technical Understanding and Approach:** The Government will
     evaluate the offeror’s technical approach: level of knowledge,
@@ -367,9 +367,9 @@ a.  *Evaluation Process.* The Government intends to utilize a
     source software development, human-centered design, and continuous
     deployment methods.
 
-###  c. *Price Evaluation Factors.* Each offeror’s price quotation will be evaluated separately from the technical quotation and oral interview. The Government will evaluate the offeror’s pricing schedule as well as pricing narrative after the Oral Interview to ensure that the offered price is fair, reasonable, and realistic. Pricing shall reflect reasonableness, consistency with industry standards, and be in compliance with rates and terms and conditions of the aBPA. Note that as submissions become more technically equal in their merit, the evaluated price becomes more important. Therefore, provide your best discounted rates.
+###  *c.* *Price Evaluation Factors.* Each offeror’s price quotation will be evaluated separately from the technical quotation and oral interview. The Government will evaluate the offeror’s pricing schedule as well as pricing narrative after the Oral Interview to ensure that the offered price is fair, reasonable, and realistic. Pricing shall reflect reasonableness, consistency with industry standards, and be in compliance with rates and terms and conditions of the aBPA. Note that as submissions become more technically equal in their merit, the evaluated price becomes more important. Therefore, provide your best discounted rates.
 
-d\. *Scoring Plan*
+*d.* *Scoring Plan*
 
 The evaluation of Phase 1 above shall be accomplished using the
 Pass/Fail method.
@@ -536,12 +536,12 @@ contract in accordance with 48 CFR 517.207.
 
 #### ATTACHMENTS TO THIS RFQ
 
-1.  RFQ - Vendor Pricing Template
+1.  [RFQ - Vendor Pricing Template](https://github.com/18F/bpa-opm-eqip/blob/master/eQIP%20Vendor%20Pricing%20Template.xlsx)
 
-2.  PWS
+2.  [PWS](https://github.com/18F/bpa-opm-eqip/blob/master/PWS.md)
 
-3.  PWS - QASP
+3.  [PWS - QASP](https://github.com/18F/bpa-opm-eqip/blob/master/QASP.md)
 
-4.  Non Disclosure Agreement
+4.  [Non Disclosure Agreement](https://github.com/18F/bpa-opm-eqip/blob/master/NDA.md)
 
 
