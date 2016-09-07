@@ -16,7 +16,7 @@ a systematic method to evaluate the services the contractor is required
 to furnish.
 
 STANDARD
-========
+--------
 
 The contractor is responsible for management and quality control actions
 to meet the terms of the call order. The role of the COR/ACOR is quality
@@ -29,7 +29,7 @@ performance objectives and acceptable quality levels (AQLs) identified
 below.
 
 PERFORMANCE REQUIREMENTS MATRIX
-===============================
+-------------------------------
 
 The COR/ACOR will evaluate the performance objectives through
 surveillance as reflected below by reviews and acceptance of work
@@ -53,7 +53,7 @@ Deliverable or Required Services Performance Standard(s):
    Secure | Code must be free of medium- and high-level static and dynamic security vulnerabilities | Clean tests from a static testing SaaS, such as Gemnasium, and from OWASP ZAP, and/or documentation explaining any false positives. |  https://pages.18f.gov/before-you-ship/
 
 PROCEDURES
-==========
+----------
 
 The COR/ACOR, along with the 18F Product Lead and the product owner,
 will inspect all tasks required by the call order to ensure contractor
@@ -104,7 +104,7 @@ corrected by re-performance, the Government may:
     call order.
 
 ACCEPTANCE OF SERVICES
-======================
+----------------------
 
 Acceptance of services shall be based upon compliance with performance
 standards described in the PWS and surveillance procedures described in
