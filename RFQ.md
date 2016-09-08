@@ -244,9 +244,7 @@ At a minimum, provide:
 >    consistent with or lower than your aBPA rates and must be fully
 >    burdened (inclusive of profit, fringe benefits, salary, indirect
 >    rates, and the GSA Contract Access Fee (CAF)).
-
-<!-- -->
-
+>
 > ii. Pricing Narrative. The pricing narrative should describe your
 >     basis of pricing for the required services and other costs used in
 >     the development of the proposed pricing. The pricing narrative
