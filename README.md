@@ -4,7 +4,7 @@
 
 The documents in this repository are posted to eBuy under RFQ1138886. The documents in eBuy should always be considered the documents of record. Please submit any questions as GitHub issues in this repository by September 13, 2016 at 3:00PM EST. 18F and the Contracting Officer will only be responding to questions submitted by Agile BPA vendors. Comments from other parties will still be considered but we cannot commit to responding to them.
 
-Offers are due by September 20, 2016, at 3pm EST.
+Offers are due by September 22, 2016, at 3pm EST.
 
 ## Contributing
 
