@@ -273,7 +273,7 @@ Government Follow-Up Q&A | 15 Minutes Maximum (if needed)
 
 *c.* *Part Two (only if necessary).* The Government will allocate 15 minutes for follow-up questions following the offeror’s answers to the initial core questions on technical factors. During this time, the Government may ask questions on any information that had been presented by the offeror that the Government feels is unclear or needs elaboration. The Government’s questions may differ among the offerors based on what needs elaboration. If the Government has no follow-up questions with a particular offeror, then this part of the session will not take place. The answers given in this session are part of the offeror’s oral presentation.
 
-*d.* *Location.* The oral presentation sessions will be conducted by video chat, though audio may be substituted as needed. The Government will coordinate and set up the meeting space accordingly (providing dial in or links using a tool such as Acano or Adobe Connect).
+*d.* *Location.* The oral presentation sessions will be conducted by video chat, though audio may be substituted as needed. The Government will coordinate and set up the meeting space accordingly (providing dial in or links using a tool such as Zoom, Google Hangouts, or Adobe Connect).
 
 *e.* *Date and Time.* The Government will schedule the date and time of the oral presentations with each offeror after the RFQ closing date and receipt of offeror quote submissions. The Government reserves the right to reschedule any offeror’s orals date at the discretion of the contracting officer.
 
