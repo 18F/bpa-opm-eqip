@@ -407,7 +407,7 @@ within 24 hours of any anticipated or known impact.
   User Research Findings |  End of second sprint, and every applicable sprint thereafter | A summary of research conducted and results found. If applicable, next steps or recommendations based on research.
   Design Deliverables | End of every applicable sprint|  Mock ups and/or design files if applicable, or design changes reflected in the Development Prototype
   Development Prototype| End of second sprint, and every sprint thereafter | In-progress development prototype, accessible on the web via staging server / development server
-  Transition plan | 3 business days after the conclusion of the second-to-last sprint |  See Section 5.7.1 of the PWS
+  Transition plan | 3 business days after the conclusion of the second-to-last sprint |  See Section 6.7 of the PWS
 
 #### The contractor shall submit all deliverables to COR/ACOR, 18F Product Lead, and Product Owner.
 
